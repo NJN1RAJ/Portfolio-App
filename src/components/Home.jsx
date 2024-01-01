@@ -4,7 +4,7 @@ import React from "react";
 
 function Home() {
   return (
-    <div className="flex justify-around my-32">
+    <div className="flex justify-around my-32 flex-wrap">
       <div className="w-5/12 ml-10 ">
         <div className="text-2xl font-semibold text-white ">About Me</div>
         <div className="mt-5 text-xl text-white">Hi I'm Niraj,</div>

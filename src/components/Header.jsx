@@ -53,7 +53,7 @@ function Header() {
           </NavLink>
         </li>
       </ul>
-      <div className="mx-5">
+      <div className="mx-5 hidden sm:block">
         <Social />
       </div>
     </div>
