@@ -1,4 +1,4 @@
-import thopda from "../assets/thopda.jpg";
+import Chehra from "../assets/Chehra.jpeg";
 
 import React from "react";
 
@@ -33,7 +33,7 @@ function Home() {
             width: "200px",
             height: "200px",
             backgroundSize: "cover",
-            backgroundImage: `url(${thopda})`,
+            backgroundImage: `url(${Chehra})`,
           }}
         ></div>
         <div className="my-2 font-semibold text-lg  text-white">Contact</div>
